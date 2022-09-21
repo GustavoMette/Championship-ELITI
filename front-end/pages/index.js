@@ -19,6 +19,7 @@ export default function Home() {
       </div>
       <div>
         <img className={styles.vava} src='./vava.png'/>
+        <img src='./corno.png'/>
       </div>
     </div>
   )
