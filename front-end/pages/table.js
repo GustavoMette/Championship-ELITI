@@ -1,4 +1,4 @@
-import styles from '../styles/.module.css'
+import styles from '../styles/table.css'
 import Link from 'next/link'
 
 export default function Home() {
