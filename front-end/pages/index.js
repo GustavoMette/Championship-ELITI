@@ -3,15 +3,7 @@ import Link from 'next/link'
 
 export default function Home() {
   return (
-<<<<<<< HEAD
     <div className={styles.geral}>
-=======
-    <div className={styles.container}>
-       <Link href='/table'>
-      <a>Voltar</a>
-      </Link>
-    <div>
->>>>>>> be1646132967ef9b75fdbfb27f7950c6c7b63bd7
       <div className={styles.logo}>
         <img className={styles.eliti} src='./eliti_champions.png' width={477} height={77} />
       </div>
@@ -30,6 +22,6 @@ export default function Home() {
         <img className={styles.vava} src='./vava.png'/>
       </div>
     </div>
-    </div>
+   
   )
 }
