@@ -1,5 +1,4 @@
 import styles from '../styles/Home.module.css'
-import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -23,6 +22,5 @@ export default function Home() {
         <img className={styles.ff} src='./corno.png'/>
       </div>
     </div>
-   
   )
 }
