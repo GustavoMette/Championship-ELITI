@@ -2,8 +2,7 @@ import Link from 'next/link'
 import styles from '../styles/table.module.css'
 
 export default function Home() {
-  return (
-    <div className={styles.container}>
+  return (<div className={styles.container}>
     <Link href='/table'>
    <a>Voltar</a>
    </Link>
@@ -21,5 +20,6 @@ export default function Home() {
    </div>
  </div>
  </div>
+     
 )
 }
