@@ -29,6 +29,11 @@
         .topnav a:hover {
           border-bottom: solid 1px #fafafa;
         }
+        .seta {
+          font-size: 10vh;
+          position: fixed;
+          margin-left: 3%;
+        }
 
         .lol {
           margin-left: 15%;
