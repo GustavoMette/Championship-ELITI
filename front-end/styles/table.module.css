@@ -1,3 +1,7 @@
+.container {
+  
+}
+
 .seta {
   font-size: 10vh;
   position: fixed;
@@ -5,10 +9,11 @@
 }
 
 .logot {
+    position: relative;
+    top: 3vh;
     color: #fafafa;
     background-color:rgb(14, 14, 14) ;
     text-align: center;  
-    margin-top: 2%;
     
   }
   .topnavt {
