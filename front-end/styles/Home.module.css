@@ -12,8 +12,9 @@
         .topnav {
           overflow: hidden;
           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+          font-weight: bold
         }
-
+        
         .topnav a {
           float: left;
           display: block;
@@ -22,19 +23,14 @@
           padding: 14px 16px;
           text-decoration: none;
           font-size: 20px;
-          margin: 2%;
-          margin-left: 14%;
+          margin: 1%;
+          margin-left: 9%;
         }
-
+        
         .topnav a:hover {
           border-bottom: solid 1px #fafafa;
         }
-        .seta {
-          font-size: 10vh;
-          position: fixed;
-          margin-left: 3%;
-        }
-
+        
         .lol {
           margin-left: 15%;
           margin-top: 2%;
