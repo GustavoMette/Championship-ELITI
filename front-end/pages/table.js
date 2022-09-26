@@ -29,7 +29,7 @@ export default function Home() {
    <p className={styles.cal}> Calvos </p>
    </div>
    <div className={styles.buttons}>
-   <p className={styles.espb}>⬜</p>
+   <p className={styles.espb}>🧿</p>
    <p className={styles.redb}>⬜</p>
    <p className={styles.wakb}>⬜</p>
    <p className={styles.vikb}>⬜</p>
