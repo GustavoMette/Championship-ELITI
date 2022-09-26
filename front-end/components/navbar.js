@@ -11,9 +11,10 @@ export default function navbar() {
       <Link href='/'>
    <a>Home</a>
       </Link>
-    <a>News</a>
-    <a>Contact</a>
-    <a>About</a>
+      <a href="#news">Calendario</a>
+     <a href="#contact">Chaves</a>
+     <a href="#about">Times</a>
+     <a href="#register">Cadastre-se</a>
  </div>
  </div>  
     )
