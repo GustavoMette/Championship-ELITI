@@ -1,23 +1,11 @@
 import styles from '../styles/Home.module.css'
 import Link from  'next/link'
+import Navgation from '../components/Navgation'
 
 export default function Home() {
   return (
     <div className={styles.geral}>
-      <div className={styles.logo}>
-        <img className={styles.eliti} src='./eliti_champions.png' width={477} height={77} />
-      </div>
-      <div className={styles.seta}>
-    <Link href='/table'>
-   <a>↩</a>
-   </Link>
-   </div>
-      <div className={styles.topnav} >
-        <a href="#home" >Home</a>
-        <a href="#news">News</a>
-        <a href="#contact">Contact</a>
-        <a href="#about">About</a>
-      </div>
+      <Navgation/>
       <div>
         <img className={styles.lol} src='./lol.png' />
         <img className={styles.cs} src='./cs.png' />
