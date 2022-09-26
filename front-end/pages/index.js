@@ -13,7 +13,7 @@ export default function Home() {
         </Link>
         <Link href='/csgo'>
         <img className={styles.cs} src='./cs.png' />
-        </Link>
+        </Link> 
       </div>
       <div>
       <Link href='/valorant'>
