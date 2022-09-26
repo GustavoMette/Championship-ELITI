@@ -7,12 +7,20 @@ export default function Home() {
     <div className={styles.geral}>
       <Navbar />
       <div>
+      <Link href='/lol'>
         <img className={styles.lol} src='./lol.png' />
+        </Link>
+        <Link href='/csgo'>
         <img className={styles.cs} src='./cs.png' />
+        </Link>
       </div>
       <div>
+      <Link href='/valorant'>
         <img className={styles.vava} src='./vava.png'/>
-        <img className={styles.ff} src='./corno.png'/>
+      </Link>
+      <Link href='/freefire'>
+        <img className={styles.ff} src='./freefire.png'/>
+       </Link>
       </div>
     </div>
   )
