@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import styles from '../styles/table.module.css'
 
-export default function Home() {
+export default function tablecs() {
   return (
     <div className={styles.container}>
   <div className={styles.seta}>
@@ -14,7 +14,9 @@ export default function Home() {
    </div>
 
    <div className={styles.topnavt} >
-     <a href="#home" >Home</a>
+    <Link href='/'>
+   <a>Home</a>
+      </Link>
      <a href="#news">Calendario</a>
      <a href="#contact">Chaves</a>
      <a href="#about">Times</a>
@@ -29,7 +31,7 @@ export default function Home() {
    <p className={styles.cal}> Calvos </p>
    </div>
    <div className={styles.buttons}>
-   <p className={styles.espb}>🧿</p>
+   <p className={styles.espb}>⬜</p>
    <p className={styles.redb}>⬜</p>
    <p className={styles.wakb}>⬜</p>
    <p className={styles.vikb}>⬜</p>
@@ -37,5 +39,5 @@ export default function Home() {
    <p className={styles.calb}>⬜</p>
    </div>
  </div>
-)
-}
+  )
+    }

@@ -1,11 +1,11 @@
 import styles from '../styles/Home.module.css'
 import Link from  'next/link'
-import Navgation from '../components/Navgation'
+import Navbar from '../components/navbar'
 
 export default function Home() {
   return (
     <div className={styles.geral}>
-      <Navgation/>
+      <Navbar />
       <div>
         <img className={styles.lol} src='./lol.png' />
         <img className={styles.cs} src='./cs.png' />
