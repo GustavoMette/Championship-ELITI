@@ -6,7 +6,8 @@ export default function Home() {
   return (
     <div className={styles.geral}>
       <Navbar />
-      <div>
+      <div className={styles.games}>
+        <div>
       <Link href='/lol'>
         <img className={styles.lol} src='./lol.png' />
         </Link>
@@ -22,6 +23,7 @@ export default function Home() {
         <img className={styles.ff} src='./freefire.png'/>
        </Link>
       </div>
+    </div>
     </div>
   )
 }

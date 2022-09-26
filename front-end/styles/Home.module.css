@@ -1,5 +1,6 @@
         .geral {
           height: 100%;
+      
         }
 
         .logo {
@@ -30,12 +31,17 @@
         .topnav a:hover {
           border-bottom: solid 1px #fafafa;
         }
-        
+        .games {
+          border-top: solid 1px black;
+        }
+
         .lol {
           margin-left: 15%;
           margin-top: 2%;
           width: 29%;
           height: 34vh;
+          cursor: pointer;
+          border: solid 2px black ;
         }
 
         .cs {
@@ -43,16 +49,23 @@
           margin-top: 3%;
           width: 30%;
           height: 34vh;
+          cursor: pointer;
+          border: solid 2px black ;
         }
 
         .vava {
           margin-left: 15%;
           width: 29vw;
           margin-top: 3%;
+          cursor: pointer;
+          border: solid 2px black ;
         }
 
         .ff {
           margin-left: 13%;
           width: 29vw;
           margin-top: 2%;
+          cursor: pointer;
+          border: solid 2px black ;
         }
+        
