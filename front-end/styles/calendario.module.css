@@ -1,0 +1,37 @@
+.geral {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hj{
+    text-align: center;
+    font-weight: bold;
+    font-size: 8vh;
+    margin-top: 1%;
+}
+.ama{
+    margin-top: 10%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 8vh;
+}
+.wv {
+    font-size: 3vh;
+    background-color: rgb(112, 111, 111);
+    border-bottom:solid 4px rgb(85, 84, 84);
+    background-size: cover;
+    width: 15%;
+    padding: 1.1%;
+    padding-right: 3%;
+    margin-left: 41%;
+    margin-top: -17%;
+}
+.ca{
+    font-size: 3vh;
+    background-color: rgb(112, 111, 111);
+    border-bottom:solid 4px rgb(85, 84, 84);
+    background-size: cover;
+    width: 15%;
+    padding: 1.1%;
+    padding-right: 3%;
+    margin-left: 41%;
+    margin-top: -20px;
+}

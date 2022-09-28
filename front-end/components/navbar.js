@@ -10,7 +10,8 @@ export default function navbar() {
    <div className={styles.topnav}>
       <Link href='/'>
    <a>Home</a>
-      </Link><Link href='/Calendario'>
+      </Link>
+      <Link href='/Calendario'>
    <a>Calendario</a>
       </Link>
      <a href="#contact">Chaves</a>

@@ -1,4 +1,4 @@
-import styles from '../styles/table.module.css'
+import styles from '../styles/calendario.module.css'
 import Navbar from "../components/navbar"
 
 export default function calendario() {
@@ -7,8 +7,12 @@ export default function calendario() {
    <div>
     <Navbar />
    </div>
-    
 
+    <h1 className={styles.hj}>Hoje</h1>
+    <h1 className={styles.ama}>Amanhã</h1>
+   
+   <p className={styles.wv}>🔴 WKD vs VKS</p>
+   <p className={styles.ca}>⚫ CAL vs AMC</p>
    </div>
   )
     }
