@@ -3,7 +3,7 @@ import Navbar from "../components/navbar"
 
 export default function calendario() {
   return (
-    <div className={styles.geral}>
+    <div className={styles.allcalendario}>
    <div>
     <Navbar />
    </div>
