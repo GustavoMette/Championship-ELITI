@@ -12,7 +12,9 @@ export default function navbar() {
    <a>Home</a>
       </Link>
       <a href="#news">Calendario</a>
-     <a href="#contact">Chaves</a>
+      <Link href='/chaves'>
+   <a>Chaves</a>
+      </Link>
      <a href="#about">Times</a>
      <a href="#register">Cadastre-se</a>
  </div>
