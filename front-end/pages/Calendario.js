@@ -13,6 +13,9 @@ export default function calendario() {
    
    <p className={styles.wv}>🔴 WKD vs VKS</p>
    <p className={styles.ca}>⚫ CAL vs AMC</p>
+   <p className={styles.wr}>⚫ WKD vs RED</p>
+   <p className={styles.ce}>⚫ CAL vs ESP</p>
+   <p className={styles.av}>⚫ AMC vs VKS</p>
    </div>
   )
     }

@@ -11,7 +11,10 @@ export default function navbar() {
       <Link href='/'>
    <a>Home</a>
       </Link>
-      <a href="#news">Calendario</a>
+      <Link href='/Calendario'>
+   <a>Calendario</a>
+      </Link>
+
       <Link href='/chaves'>
    <a>Chaves</a>
       </Link>
