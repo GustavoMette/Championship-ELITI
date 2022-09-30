@@ -76,7 +76,7 @@ export default function chaves() {
   {/* LINHA HORIZONTAL E VERTICA */}
 
     <div className={styles.horizontal1}>
-      <h1>———|</h1>
+      <h1>———</h1>
     </div>
     <div className={styles.horizontal2}>
       <h1>———</h1>

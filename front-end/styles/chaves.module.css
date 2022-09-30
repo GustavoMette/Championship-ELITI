@@ -34,7 +34,7 @@
     position: relative;
     max-width: 20%;
     top: 28px;
-    left: 38.8%;
+    left: 40%;
 }
 
 .final {
@@ -166,7 +166,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 36%;
+    margin-left: 37.5%;
     margin-top: -44vh;
 }
 
@@ -180,7 +180,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 36%;
+    margin-left: 37.5%;
     margin-top: -3vh;
 }
 
@@ -194,7 +194,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 36%;
+    margin-left: 37.5%;
     margin-top: 17vh;
 }
 
@@ -208,7 +208,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 36%;
+    margin-left: 37.5%;
     margin-top: -3vh;
 }
 
@@ -244,24 +244,36 @@
 
 .horizontal1 {
     position: relative;
-    bottom: 31.5vh;
-    left: 55vh;
+    bottom: 30.2vh;
+    left: 50.9vh;
 }
 
 .horizontal2 {
     position: relative;
-    bottom: 27.8vh;
-    left: 55vh;
+    bottom: 26.3vh;
+    left: 50.9vh;
 }
 
 .horizontal3 {
     position: relative;
-    bottom: 23.7vh;
-    left: 55vh;
+    bottom: 22.3vh;
+    left: 50.9vh;
 }
 
 .horizontal4 {
     position: relative;
-    bottom: 19.8vh;
-    left: 55vh;
+    bottom: 18.4vh;
+    left: 50.9vh;
+}
+
+.horizontal5 {
+    position: relative;
+    bottom: 59.6vh;
+    left: 99vh;
+}
+
+.horizontal6 {
+    position: relative;
+    bottom: 45vh;
+    left: 99vh;
 }
