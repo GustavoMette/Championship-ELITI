@@ -75,3 +75,9 @@
     margin-left: 38%;
     margin-top: -20px;
 }
+.table{
+    border:solid 1px rgb(29, 28, 28) ;
+}
+.footer{
+    background-color: rgb(36, 34, 34);
+} 

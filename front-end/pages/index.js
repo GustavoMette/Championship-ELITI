@@ -1,10 +1,11 @@
 import styles from '../styles/Home.module.css'
 import Navbar from '../components/navbar'
+
 import Link from 'next/link'
 
 export default function Home() {
   return (
-    <div className={styles.geral}>
+    <div className={styles.geral}>  
       <Navbar />
       <div className={styles.games}>
         <div>
@@ -23,7 +24,12 @@ export default function Home() {
         <img className={styles.ff} src='./freefire.png'/>
        </Link>
       </div>
-    </div>
+    </div> 
+    <footer>
+      <h1>
+        a
+      </h1>
+    </footer>
     </div>
   )
 }
