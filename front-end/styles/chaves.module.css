@@ -242,22 +242,13 @@
 
 /* LINHAS */
 
-.vertical1 {
-    position: relative;
-    bottom: 82vh;
-    left: 64.8vh;
-}
-
-.vertical1 {
-    position: relative;
-    bottom: 82vh;
-    left: 64.8vh;
-}
 
 .vertical1 {
     position: relative;
     bottom: 82.1vh;
     left: 64.8vh;
+    font-size: 10;
+   
 }
 
 .vertical2 {
@@ -282,6 +273,7 @@
     position: relative;
     bottom: 30.2vh;
     left: 50.9vh;
+    
 }
 
 .horizontal2 {

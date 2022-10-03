@@ -98,7 +98,7 @@ export default function chaves() {
       <h1>|</h1>
     </div>
     <div className={styles.vertical2}>
-      <h1>|</h1>
+      <h1></h1>
     </div>
     <div className={styles.vertical3}>
       <h1>|</h1>
