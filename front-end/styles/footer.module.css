@@ -1,2 +1,33 @@
-.footer {
-}
+.body {
+    
+    margin: 0;
+    padding: 0;
+    height:1000px;
+   }
+
+   .footer {
+    
+    background-color: rgb(54, 53, 53);
+    border-top:2px solid rgb(255, 255, 255);
+    position: absolute;
+    width: 100%;
+    height: 18%;
+    bottom: -45%;
+    color: white;
+    font-size: 25px;
+    border-top: 1px solid #333;
+   }
+   .follow {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-weight: bold;  
+    padding-left: 50%;
+   }
+
+   .contact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-weight: bold;
+   }
+   .number {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-weight: bold;
+   }

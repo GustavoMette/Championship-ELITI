@@ -1,5 +1,6 @@
 import Navbar from '../components/navbar'              
 import styles from '../styles/chaves.module.css'
+import Footer from "../components/footer"
 
 export default function chaves() {
     return (
@@ -30,7 +31,7 @@ export default function chaves() {
         <div className={styles.r1team2}>
             <h2>WAKANDA</h2>
         </div>
-
+        <Footer/>
         
         </div>
     )

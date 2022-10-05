@@ -1,5 +1,6 @@
 import styles from '../styles/Home.module.css'
 import Navbar from '../components/navbar'
+import Footer from '../components/footer'
 
 import Link from 'next/link'
 
@@ -26,9 +27,7 @@ export default function Home() {
       </div>
     </div> 
     <footer>
-      <h1>
-        a
-      </h1>
+        <Footer />
     </footer>
     </div>
   )
