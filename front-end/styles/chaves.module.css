@@ -40,8 +40,9 @@
 .final {
     position: relative;
     max-width: 15%;
-    top: 80px;
-    left: 59%;
+    top: 65px;
+    left: 63%;
+
 }
 
 .r1team1 {
@@ -213,6 +214,7 @@
 }
 
 .final1 {
+    position: relative;
     text-align: center;
     font-size: 3vh;
     background-color: rgb(112, 111, 111);
@@ -222,11 +224,12 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 58%;
+    margin-left: 62%;
     margin-top: -24vh;
 }
 
 .final2 {
+    position: relative;
     text-align: center;
     font-size: 3vh;
     background-color: rgb(112, 111, 111);
@@ -236,8 +239,13 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 58%;
+    margin-left: 62%;
     margin-top: -3vh;
+}
+.finalc {
+    position: relative;
+    top: -10px;
+    right: 17px;
 }
 
 /* LINHAS */
@@ -366,6 +374,6 @@
 
 .horizontal9 {
     position: relative;
-    bottom: 191.7vh;
-    left: 18.5vh;
+    bottom: 188.5vh;
+    left: 110.6vh;
 }

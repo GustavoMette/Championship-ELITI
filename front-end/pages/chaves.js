@@ -1,5 +1,6 @@
 import styles from '../styles/chaves.module.css'
 import Footer from "../components/footer"
+import Navbar from "../components/navbar"
 
 export default function chaves() {
   return (
@@ -67,11 +68,13 @@ export default function chaves() {
         <p>VIKINGS</p>
     </div>
 
+    <div className={styles. finalc}>
     <div className={styles.final1}>
         <p>CALVOS</p>
     </div>
     <div className={styles.final2}>
         <p>VIKINGS</p>
+    </div>
     </div>  
 
   {/* LINHA HORIZONTAL E VERTICA */}
@@ -139,6 +142,10 @@ export default function chaves() {
     <h1>—</h1>
     </div>
      <div className={styles.horizontal8}>
+    <h1>—</h1>
+    </div>
+
+    <div className={styles.horizontal9}>
     <h1>—</h1>
     </div>
 
