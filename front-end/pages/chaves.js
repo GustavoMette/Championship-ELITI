@@ -1,4 +1,3 @@
-import Navbar from '../components/navbar'              
 import styles from '../styles/chaves.module.css'
 import Footer from "../components/footer"
 
