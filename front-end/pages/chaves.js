@@ -1,5 +1,5 @@
 import styles from '../styles/chaves.module.css'
-import Navbar from "../components/navbar"
+import Footer from "../components/footer"
 
 export default function chaves() {
   return (
@@ -142,6 +142,7 @@ export default function chaves() {
     <h1>—</h1>
     </div>
 
+    <Footer />
       </div>
   );
 };

@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import styles from '../styles/table.module.css'
 
-export default function vavalorant() {
+export default function valorant() {
   return (
     <div className={styles.container}>
   <div className={styles.seta}>
