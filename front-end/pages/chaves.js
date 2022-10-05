@@ -23,12 +23,13 @@ export default function chaves() {
     </div>
     <img className={styles.teamimg} src="./teamlogo.png"/>
 
-
+    <div className={styles.teams1}>
     <div className={styles.r1team1}>
         <p>BATSTRIK</p>
     </div>
     <div className={styles.r1team2}>
         <p>WAKANDA</p>
+    </div>
     </div>
 
     <div className={styles.r1team3}>
@@ -76,7 +77,7 @@ export default function chaves() {
   {/* LINHA HORIZONTAL E VERTICA */}
 
     <div className={styles.horizontal1}>
-      <h1>—</h1>
+    <h1>—</h1>
     </div>
     <div className={styles.horizontal2}>
       <h1>—</h1>

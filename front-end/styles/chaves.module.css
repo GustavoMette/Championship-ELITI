@@ -27,7 +27,7 @@
     position: relative;
     max-width: 20%;
     top: 15px;
-    left: 16%;
+    left: 20%;
 }
 
 .round2 {
@@ -54,7 +54,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 13%;
+    margin-left: 20%;
     margin-top: -42vh;
 }
 
@@ -68,7 +68,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 13%;
+    margin-left: 18%;
     margin-top: -3vh;
 }
 
@@ -246,9 +246,8 @@
 .vertical1 {
     position: relative;
     bottom: 82.1vh;
-    left: 64.8vh;
+    left: 68vh;
     font-size: 10;
-   
 }
 
 .vertical2 {
