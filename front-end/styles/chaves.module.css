@@ -27,14 +27,14 @@
     position: relative;
     max-width: 20%;
     top: 15px;
-    left: 20%;
+    left: 25.5%;
 }
 
 .round2 {
     position: relative;
     max-width: 20%;
-    top: 28px;
-    left: 40%;
+    top: 18px;
+    left: 44.3%;
 }
 
 .final {
@@ -54,7 +54,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 20%;
+    margin-left: 21.8%;
     margin-top: -42vh;
 }
 
@@ -68,7 +68,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 18%;
+    margin-left: 21.8%;
     margin-top: -3vh;
 }
 
@@ -82,7 +82,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 13%;
+    margin-left: 21.8%;
     margin-top: 4vh;
 }
 
@@ -96,7 +96,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 13%;
+    margin-left: 21.8%;
     margin-top: -3vh;
 }
 
@@ -110,7 +110,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 13%;
+    margin-left: 21.8%;
     margin-top: 4vh;
 }
 
@@ -124,7 +124,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 13%;
+    margin-left: 21.8%;
     margin-top: -3vh;
 }
 
@@ -138,7 +138,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 13%;
+    margin-left: 21.8%;
     margin-top: 4vh;
 }
 
@@ -152,7 +152,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 13%;
+    margin-left: 21.8%;
     margin-top: -3vh;
 }
 
@@ -166,7 +166,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 37.5%;
+    margin-left: 41%;
     margin-top: -44vh;
 }
 
@@ -180,7 +180,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 37.5%;
+    margin-left: 41%;
     margin-top: -3vh;
 }
 
@@ -194,7 +194,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 37.5%;
+    margin-left: 41%;
     margin-top: 17vh;
 }
 
@@ -208,7 +208,7 @@
     height: 25px;
     padding-right: 1%;
     padding-left: 1%;
-    margin-left: 37.5%;
+    margin-left: 41%;
     margin-top: -3vh;
 }
 
@@ -245,62 +245,127 @@
 
 .vertical1 {
     position: relative;
-    bottom: 82.1vh;
-    left: 68vh;
+    bottom: 81.1vh;
+    left: 72vh;
     font-size: 10;
 }
 
 .vertical2 {
     position: relative;
-    bottom: 82.5vh;
-    left: 64.8vh;
+    bottom: 81.4vh;
+    left: 72vh;
 }
 
 .vertical3 {
     position: relative;
-    bottom: 82vh;
-    left: 64.8vh;
+    bottom: 64.6vh;
+    left: 72vh;
 }
 
 .vertical4 {
     position: relative;
     bottom: 82vh;
-    left: 64.8vh;
+    left: 72vh;
+}
+
+.vertical5 {
+    position: relative;
+    bottom: 112vh;
+    left: 72vh;
+}
+
+.vertical6 {
+    position: relative;
+    bottom: 95.5vh;
+    left: 72vh;
+}
+
+.vertical7 {
+    position: relative;
+    bottom: 128.1vh;
+    left: 109.8vh;
+}
+
+.vertical8 {
+    position: relative;
+    bottom: 115.1vh;
+    left: 109.8vh;
+}
+
+.vertical9 {
+    position: relative;
+    bottom: 128vh;
+    left: 109.8vh;
+}
+
+.vertical10 {
+    position: relative;
+    bottom: 141.2vh;
+    left: 109.8vh;
+}
+
+.vertical11 {
+    position: relative;
+    bottom: 154.5vh;
+    left: 109.8vh;
+}
+
+.vertical12 {
+    position: relative;
+    bottom: 167.7vh;
+    left: 109.8vh;
 }
 
 .horizontal1 {
     position: relative;
     bottom: 30.2vh;
-    left: 50.9vh;
-    
+    left: 68vh;
 }
 
 .horizontal2 {
     position: relative;
     bottom: 26.3vh;
-    left: 50.9vh;
+    left: 68vh;
 }
 
 .horizontal3 {
     position: relative;
     bottom: 22.3vh;
-    left: 50.9vh;
+    left: 68vh;
 }
 
 .horizontal4 {
     position: relative;
     bottom: 18.4vh;
-    left: 50.9vh;
+    left: 68vh;
 }
 
 .horizontal5 {
     position: relative;
     bottom: 59.6vh;
-    left: 99vh;
+    left: 72.8vh;
 }
 
 .horizontal6 {
     position: relative;
-    bottom: 45vh;
-    left: 99vh;
+    bottom: 42.7vh;
+    left: 72.9vh;
+}
+
+.horizontal7 {
+    position: relative;
+    bottom: 157vh;
+    left: 105.5vh;
+}
+
+.horizontal8 {
+    position: relative;
+    bottom: 191.7vh;
+    left: 105.5vh;
+}
+
+.horizontal9 {
+    position: relative;
+    bottom: 191.7vh;
+    left: 18.5vh;
 }

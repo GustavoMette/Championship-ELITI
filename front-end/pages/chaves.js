@@ -9,13 +9,13 @@ export default function chaves() {
     </div>
     <div className={styles.allrounds}>
     <div className={styles.round1}>
-      <h1>RODADA 1</h1>
+      <h1>1 FASE</h1>
     </div>
     <div className={styles.round2}>
-      <h1>RODADA 2</h1>
+      <h1>2 FASE</h1>
     </div>  
     <div className={styles.final}>
-      <h1>RODADA FINAL</h1>
+      <h1>FASE FINAL</h1>
     </div>
     </div>
     <div className={styles.champion}>
@@ -76,8 +76,10 @@ export default function chaves() {
 
   {/* LINHA HORIZONTAL E VERTICA */}
 
+
+    
     <div className={styles.horizontal1}>
-    <h1>—</h1>
+      <h1>—</h1>
     </div>
     <div className={styles.horizontal2}>
       <h1>—</h1>
@@ -99,13 +101,45 @@ export default function chaves() {
       <h1>|</h1>
     </div>
     <div className={styles.vertical2}>
-      <h1></h1>
+      <h1>|</h1>
     </div>
     <div className={styles.vertical3}>
       <h1>|</h1>
     </div>
     <div className={styles.vertical4}>
       <h1>|</h1>
+    </div>
+    <div className={styles.vertical5}>
+      <h1>|</h1>
+    </div>
+    <div className={styles.vertical6}>
+      <h1>|</h1>
+    </div>
+
+    <div className={styles.vertical7}>
+      <h1>|</h1>
+    </div>
+    <div className={styles.vertical8}>
+      <h1>|</h1>
+    </div>
+    <div className={styles.vertical9}>
+      <h1>|</h1>
+    </div>
+    <div className={styles.vertical10}>
+      <h1>|</h1>
+    </div>
+    <div className={styles.vertical11}>
+      <h1>|</h1>
+    </div>
+    <div className={styles.vertical12}>
+    <h1>|</h1>
+    </div>
+
+    <div className={styles.horizontal7}>
+    <h1>—</h1>
+    </div>
+     <div className={styles.horizontal8}>
+    <h1>—</h1>
     </div>
 
       </div>
