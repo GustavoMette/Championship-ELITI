@@ -23,7 +23,6 @@ export default function chaves() {
       <h1>CAMPEÃO</h1>
     </div>
     <img className={styles.teamimg} src="./teamlogo.png"/>
-
     <div className={styles.teams1}>
     <div className={styles.r1team1}>
         <p>BATSTRIK</p>
@@ -79,8 +78,6 @@ export default function chaves() {
 
   {/* LINHA HORIZONTAL E VERTICA */}
 
-
-    
     <div className={styles.horizontal1}>
       <h1>—</h1>
     </div>
@@ -144,12 +141,10 @@ export default function chaves() {
      <div className={styles.horizontal8}>
     <h1>—</h1>
     </div>
-
     <div className={styles.horizontal9}>
     <h1>—</h1>
     </div>
-
     <Footer />
-      </div>
+    </div>
   );
 };

@@ -1,9 +1,11 @@
 .all {
+    min-height: 10px;
+    height: 0vh; 
     box-sizing: border-box;
     place-items: center;
-    font-family: 'Arial Narrow Bold', sans-serif; 
+    font-family: 'Arial Narrow Bold', sans-serif;
 }
-
+    
 .allrounds {
     color: white;
     font-size: 10px;
@@ -13,7 +15,7 @@
     position: relative;
     bottom: 3vh;
     left: 76%;
-    max-width: 20%;
+    max-width: 20%;: 100vw
 }
 
 .teamimg {
@@ -31,14 +33,14 @@
 }
 
 .round2 {
-    position: relative;
+    position: relative  ;
     max-width: 20%;
     top: 18px;
     left: 44.3%;
 }
 
 .final {
-    position: relative;
+    position: relative  ;
     max-width: 15%;
     top: 65px;
     left: 63%;
@@ -154,7 +156,7 @@
     padding-right: 1%;
     padding-left: 1%;
     margin-left: 21.8%;
-    margin-top: -3vh;
+    max-width: 20%; 
 }
 
 .r2team1 {
@@ -214,7 +216,7 @@
 }
 
 .final1 {
-    position: relative;
+    position: relative  ;
     text-align: center;
     font-size: 3vh;
     background-color: rgb(112, 111, 111);
@@ -229,7 +231,7 @@
 }
 
 .final2 {
-    position: relative;
+    position: relative  ;
     text-align: center;
     font-size: 3vh;
     background-color: rgb(112, 111, 111);
@@ -243,7 +245,7 @@
     margin-top: -3vh;
 }
 .finalc {
-    position: relative;
+    position: relative  ;
     top: -10px;
     right: 17px;
 }
@@ -252,7 +254,7 @@
 
 
 .vertical1 {
-    position: relative;
+    position: relative  ;
     bottom: 81.1vh;
     left: 72vh;
     font-size: 10;
@@ -260,140 +262,140 @@
 }
 
 .vertical2 {
-    position: relative;
+    position: relative  ;
     bottom: 81.4vh;
     left: 72vh;
     max-width: 1px;
 }
 
 .vertical3 {
-    position: relative;
+    position: relative  ;
     bottom: 64.6vh;
     left: 72vh;
     max-width: 1px;
 }
 
 .vertical4 {
-    position: relative;
+    position: relative  ;
     bottom: 82vh;
     left: 72vh;
     max-width: 1px;
 }
 
 .vertical5 {
-    position: relative;
+    position: relative  ;
     bottom: 112vh;
     left: 72vh;
     max-width: 1px;
 }
 
 .vertical6 {
-    position: relative;
+    position: relative  ;
     bottom: 95.5vh;
     left: 72vh;
     max-width: 1px;
 }
 
 .vertical7 {
-    position: relative;
+    position: relative  ;
     bottom: 128.1vh;
     left: 109.8vh;
     max-width: 1px;
 }
 
 .vertical8 {
-    position: relative;
+    position: relative  ;
     bottom: 115.1vh;
     left: 109.8vh;
     max-width: 1px;
 }
 
 .vertical9 {
-    position: relative;
+    position: relative  ;
     bottom: 128vh;
     left: 109.8vh;
     max-width: 1px;
 }
 
 .vertical10 {
-    position: relative;
+    position: relative  ;
     bottom: 141.2vh;
     left: 109.8vh;
     max-width: 1px;
 }
 
 .vertical11 {
-    position: relative;
+    position: relative  ;
     bottom: 154.5vh;
     left: 109.8vh;
     max-width: 1px;
 }
 
 .vertical12 {
-    position: relative;
+    position: relative  ;
     bottom: 167.7vh;
     left: 109.8vh;
     max-width: 1px;
 }
 
 .horizontal1 {
-    position: relative;
+    position: relative  ;
     bottom: 30.2vh;
     left: 68vh;
     max-width: 1px;
 }
 
 .horizontal2 {
-    position: relative;
+    position: relative  ;
     bottom: 26.3vh;
     left: 68vh;
     max-width: 1px;
 }
 
 .horizontal3 {
-    position: relative;
+    position: relative  ;
     bottom: 22.3vh;
     left: 68vh;
     max-width: 1px;
 }
 
 .horizontal4 {
-    position: relative;
+    position: relative  ;
     bottom: 18.4vh;
     left: 68vh;
     max-width: 1px;
 }
 
 .horizontal5 {
-    position: relative;
+    position: relative  ;
     bottom: 59.6vh;
     left: 72.8vh;
     max-width: 1px;
 }
 
 .horizontal6 {
-    position: relative;
+    position: relative  ;
     bottom: 42.7vh;
     left: 72.9vh;
     max-width: 1px;
 }
 
 .horizontal7 {
-    position: relative;
+    position: relative  ;
     bottom: 157vh;
     left: 105.5vh;
     max-width: 1px;
 }
 
 .horizontal8 {
-    position: relative;
+    position: relative  ;
     bottom: 191.7vh;
     left: 105.5vh;
     max-width: 1px; 
 }
 
 .horizontal9 {
-    position: relative;
+    position: relative  ;
     bottom: 188.5vh;
     left: 110.6vh;
     max-width: 1px;
