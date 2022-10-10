@@ -12,21 +12,21 @@
 }
 
 .champion {
-    position: relative;
+    position: static;
     bottom: 3vh;
     left: 76%;
     max-width: 20%;: 100vw
 }
 
 .teamimg {
-    position: relative;
+    position: static;
     width: 20vh;
     top: -5vh;
     left: 77%;
 }
 
 .round1 {
-    position: relative;
+    position: static;
     max-width: 20%;
     top: 15px;
     left: 25.5%;
@@ -189,7 +189,14 @@
 
 .r2team3 {
     text-align: center;
-    font-size: 3vh;
+    font-size: 3vh;margin-left: 21.8%;
+    margin-top: -3vh;
+margin-left: 21.8%;
+    margin-top: -3vh;
+margin-left: 21.8%;
+    margin-top: -3vh;
+margin-left: 21.8%;
+    margin-top: -3vh;
     background-color: rgb(112, 111, 111);
     border-bottom:solid 4px rgb(85, 84, 84);
     border-radius: 5px;
@@ -216,11 +223,7 @@
 }
 
 .final1 {
-    position: relative  ;
     text-align: center;
-    font-size: 3vh;
-    background-color: rgb(112, 111, 111);
-    border-bottom:solid 4px rgb(85, 84, 84);
     border-radius: 5px;
     width: 11%;
     height: 25px;
@@ -255,6 +258,7 @@
 
 .vertical1 {
     position: relative  ;
+    position: static;
     bottom: 81.1vh;
     left: 72vh;
     font-size: 10;
@@ -263,6 +267,7 @@
 
 .vertical2 {
     position: relative  ;
+    position: static;
     bottom: 81.4vh;
     left: 72vh;
     max-width: 1px;
