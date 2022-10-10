@@ -11,7 +11,7 @@ export default function navbar() {
       <Link href='/'>
    <a>Home</a>
       </Link>
-      <Link href='/Calendario'>
+      <Link href='/calendario'>
    <a>Calendario</a>
       </Link>
 
