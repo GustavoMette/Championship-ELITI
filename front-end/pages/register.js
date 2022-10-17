@@ -2,7 +2,7 @@ import styles from '../styles/login.module.css'
 import Navbar from "../components/navbar"
 import Footer from "../components/footer"
 
-export default function login() {
+export default function register() {
   return (
     <div className={styles.body} > 
     <Navbar/>
