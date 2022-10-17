@@ -45,6 +45,11 @@
           height: 34vh;
           cursor: pointer;
           border: solid 2px black ;
+          transition-duration: 0.4s;
+        }
+        .lol:hover {
+          transition-duration: 0.4s;
+          border: solid 2px rgb(47, 185, 219) ;
         }
 
         .cs {
@@ -54,14 +59,23 @@
           height: 34vh;
           cursor: pointer;
           border: solid 2px black ;
+          transition-duration: 0.4s;
         }
-
+        .cs:hover {
+          transition-duration: 0.6s;
+          border: solid 2px rgb(255, 255, 255) ;
+        }
         .vava {
           margin-left: 15%;
           width: 29vw;
           margin-top: 3%;
           cursor: pointer;
           border: solid 2px black ;
+          transition-duration: 0.4s;
+        }
+        .vava:hover {
+          transition-duration: 0.6s;
+          border: solid 2px rgb(255, 136, 0) ;
         }
 
         .ff {
@@ -70,5 +84,10 @@
           margin-top: 2%;
           cursor: pointer;
           border: solid 2px black ;
+          transition-duration: 0.4s;
+        }
+        .ff:hover {
+          transition-duration: 0.6s;
+          border: solid 2px rgb(57, 233, 41) ;
         }
         

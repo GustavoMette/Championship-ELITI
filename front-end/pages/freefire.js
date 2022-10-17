@@ -2,6 +2,8 @@ import Link from 'next/link'
 import styles from '../styles/table.module.css'
 import Footer from "../components/footer"
 
+
+
 export default function freefire() {
   return (
     <div className={styles.container}>
@@ -40,6 +42,7 @@ export default function freefire() {
    <p className={styles.calb}>⬜</p>
    </div>
    <Footer />
+
  </div>
   )
     }
