@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import styles from '../styles/table.module.css'
-import Footer from "../components/footer"
+import Footer from "../../components/footer"
 
 
 
