@@ -2,7 +2,7 @@ import Link from 'next/link'
 import styles from '../styles/table.module.css'
 import Footer from "../components/footer"
 
-export default function valorant() {
+export default function teamsff() {
   return (
     <div className={styles.container}>
   <div className={styles.seta}>

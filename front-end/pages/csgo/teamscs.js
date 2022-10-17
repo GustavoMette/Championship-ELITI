@@ -1,10 +1,10 @@
 import Link from 'next/link'
 import styles from '../styles/table.module.css'
-import Footer from "../components/footer"
+import Footer from "../../components/footer"
 
-export default function freefire() {
+export default function teamscs() {
   return (
-    <div className={styles.container}>
+    <div className={styles.container}>                                                                                                                                                                                                                                  ´
   <div className={styles.seta}>
     <Link href='/'>
    <a>↩</a>

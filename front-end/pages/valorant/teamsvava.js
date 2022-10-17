@@ -1,8 +1,8 @@
 import Link from 'next/link'
 import styles from '../styles/table.module.css'
-import Footer from "../components/footer"
+import Footer from "../../components/footer"
 
-export default function csgo() {
+export default function teamsvava() {
   return (
     <div className={styles.container}>
   <div className={styles.seta}>

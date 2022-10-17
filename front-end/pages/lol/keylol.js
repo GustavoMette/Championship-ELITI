@@ -1,7 +1,7 @@
-import Navbar from '../navbar'              
+import Navbar from '../../components/navbar'              
 import styles from '../styles/chaves.module.css'
 
-export default function keycs() {
+export default function keylol() {
     return (
         <div className={styles.all}>
         <div>
