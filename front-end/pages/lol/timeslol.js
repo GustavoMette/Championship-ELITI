@@ -1,28 +1,12 @@
-import Link from 'next/link'
 import styles from '../../styles/table.module.css'
+import Link from 'next/link'
 import Footer from "../../components/footer"
+import Navbar from "../../components/navbar"
 
-export default function teamsvava() {
+export default function timeslol() {
   return (
     <div className={styles.container}>
-  <div className={styles.seta}>
-    <Link href='/'>
-   <a>↩</a>
-   </Link>
-   </div>
-   <div className={styles.logot}>
-     <img className={styles.elitit} src='../eliti_champions.png' width={477} height={77} />
-   </div>
-
-   <div className={styles.topnavt} >
-    <Link href='/'>
-   <a>Home</a>
-      </Link>
-     <a href="#news">Calendario</a>
-     <a href="#contact">Chaves</a>
-     <a href="#about">Times</a>
-     <a href="#register">Cadastre-se</a>
-   </div>
+      <Navbar />
     <div className={styles.teams}>
    <p className={styles.esp}> Espartanos </p>
    <p className={styles.red}> Reds </p>
@@ -40,6 +24,6 @@ export default function teamsvava() {
    <p className={styles.calb}>⬜</p>
    </div>
    <Footer />
- </div>
+   </div>
   )
     }

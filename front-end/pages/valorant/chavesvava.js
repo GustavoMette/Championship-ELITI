@@ -1,11 +1,11 @@
-import styles from '../styles/chaves.module.css'
-import Footer from "../components/footer"
-import Navbar from "../components/navbar"
+import styles from '../../styles/chaves.module.css'
+import Footer from "../../components/footer"
+import Navbar from "../../components/navbar"
 
-export default function chaves() {
+export default function chavesvava() {
   return (
     <div className={styles.all}>
-    <div>
+    <div className={styles.nav}>
     <Navbar />
     </div>
     <div className={styles.allrounds}>
@@ -22,7 +22,7 @@ export default function chaves() {
     <div className={styles.champion}>
       <h1>CAMPEÃO</h1>
     </div>
-    <img className={styles.teamimg} src="./teamlogo.png"/>
+    <img className={styles.teamimg} src="/teamlogo.png"/>
     <div className={styles.teams1}>
     <div className={styles.r1team1}>
         <p>BATSTRIK</p>

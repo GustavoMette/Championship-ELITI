@@ -17,10 +17,18 @@ export default function navbar() {
                </Link>
                <div id={styles.mostrar}>
                   <a>
+                  <Link href='/lol/calendariolol'>
                      <li id={styles.l}>lol</li>
+                  </Link>
+                  <Link href='/csgo/calendariocs'>
                      <li id={styles.c}>csgo</li>
+                     </Link>
+                     <Link href='/valorant/calendariovava'>
                      <li id={styles.v}>valorant</li>
+                     </Link>
+                     <Link href='/freefire/calendarioff'>
                      <li id={styles.f}>freefire</li>
+                     </Link>
                   </a>
                </div>
 
@@ -31,10 +39,18 @@ export default function navbar() {
                </Link>
                <div id={styles.mostrar2}>
                   <a>
+                  <Link href='/lol/chaveslol'>
                      <li id={styles.l}>lol</li>
+                  </Link>
+                  <Link href='/csgo/chavescs'>
                      <li id={styles.c}>csgo</li>
+                     </Link>
+                     <Link href='/valorant/chavesvava'>
                      <li id={styles.v}>valorant</li>
+                     </Link>
+                     <Link href='/freefire/chavesff'>
                      <li id={styles.f}>freefire</li>
+                     </Link>
                   </a>
                </div>
 
@@ -43,10 +59,18 @@ export default function navbar() {
                <a href="#about">Times</a>
                <div id={styles.mostrar3}>
                   <a>
+                  <Link href='/lol/timeslol'>
                      <li id={styles.l}>lol</li>
+                  </Link>
+                  <Link href='/csgo/timescs'>
                      <li id={styles.c}>csgo</li>
+                     </Link>
+                     <Link href='/valorant/timesvava'>
                      <li id={styles.v}>valorant</li>
+                     </Link>
+                     <Link href='/freefire/timesff'>
                      <li id={styles.f}>freefire</li>
+                     </Link>
                   </a>
                </div>
 
