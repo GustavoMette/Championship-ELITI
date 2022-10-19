@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import styles from '../styles/table.module.css'
+import styles from '../../styles/table.module.css'
 import Footer from "../../components/footer"
 
 export default function teamsvava() {
@@ -11,7 +11,7 @@ export default function teamsvava() {
    </Link>
    </div>
    <div className={styles.logot}>
-     <img className={styles.elitit} src='./eliti_champions.png' width={477} height={77} />
+     <img className={styles.elitit} src='../eliti_champions.png' width={477} height={77} />
    </div>
 
    <div className={styles.topnavt} >

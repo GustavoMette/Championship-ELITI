@@ -10,18 +10,18 @@ export default function Home() {
       <Navbar />
       <div className={styles.games}>
         <div>
-      <Link href='/lol'>
+      <Link href='/lol/teamslol'>
         <img className={styles.lol} src='./lol.png' />
         </Link>
-        <Link href='/csgo'>
+        <Link href='/csgo/teamscs'>
         <img className={styles.cs} src='./cs.png' />
         </Link> 
       </div>
       <div>
-      <Link href='/valorant'>
+      <Link href='/valorant/teamsvava'>
         <img className={styles.vava} src='./vava.png'/>
       </Link>
-      <Link href='/freefire'>
+      <Link href='/freefire/teamsff'>
         <img className={styles.ff} src='./freefire.png'/>
        </Link>
       </div>

@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import styles from '../styles/table.module.css'
-import Footer from "../components/footer"
+import styles from '../../styles/table.module.css'
+import Footer from "../../components/footer"
 
 
 export default function csgo() {
@@ -12,7 +12,7 @@ export default function csgo() {
    </Link>
    </div>
    <div className={styles.logot}>
-     <img className={styles.elitit} src='./eliti_champions.png' width={477} height={77} />
+     <img className={styles.elitit} src='../eliti_champions.png' width={477} height={77} />
    </div>
 
    <div className={styles.topnavt} >

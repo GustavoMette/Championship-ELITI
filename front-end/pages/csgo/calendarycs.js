@@ -1,4 +1,4 @@
-import styles from '../styles/calendario.module.css'
+import styles from '../../styles/calendario.module.css'
 import Navbar from "../components/navbar"
 
 export default function calendarycs() {

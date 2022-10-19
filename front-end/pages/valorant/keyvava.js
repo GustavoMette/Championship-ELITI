@@ -1,5 +1,5 @@
 import Navbar from '../../components/navbar'              
-import styles from '../styles/chaves.module.css'
+import styles from '../../styles/chaves.module.css'
 
 export default function keyvava() {
     return (
