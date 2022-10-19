@@ -7,6 +7,7 @@
   list-style: none;
   background-color: rgb(20, 22, 22);
   padding-right: 20px;
+  cursor: pointer;
 }
 
 #passar_mouse:hover #mostrar {
@@ -15,6 +16,7 @@
   border-radius: 10px;
   margin-left: 26%;
   margin-top: 4%;
+  cursor: pointer;
 }
 
 .logo {
@@ -122,6 +124,7 @@
   list-style: none;
   background-color: rgb(20, 22, 22);
   padding-right: 20px;
+  cursor: pointer;
 }
 
 #passar_mouse2:hover #mostrar2 {
@@ -129,6 +132,8 @@
   border-radius: 10px;
   margin-left: 45.5%;
   margin-top: 4%;
+  cursor: pointer;
+  cursor: pointer;
 }
 #mostrar3 {
   display: none;
@@ -136,6 +141,7 @@
   list-style: none;
   background-color: rgb(20, 22, 22);
   padding-right: 20px;
+  cursor: pointer;
 }
 
 #passar_mouse3:hover #mostrar3 {
