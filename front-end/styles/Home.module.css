@@ -1,74 +1,152 @@
-        .geral {
-          height: 100%;
-      
-        }
+.geral {
+  height: 100%;
+}
+#mostrar {
+  display: none;
+  position: absolute;
+  list-style: none;
+  background-color: rgb(20, 22, 22);
+  padding-right: 20px;
+  cursor: pointer;
+}
 
-        .logo {
-          color: #fafafa;
-          background-color: rgb(14, 14, 14);
-          text-align: center;
-          margin-top: 2%;
-        }
+#passar_mouse:hover #mostrar {
+  display: block;
 
-        .topnav {
-          overflow: hidden;
-          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-          font-weight: bold
-        }
-        
-        .topnav a {
-          float: left;
-          display: block;
-          color: #f2f2f2;
-          text-align: center;
-          padding: 14px 16px;
-          text-decoration: none;
-          font-size: 20px;
-          margin: 1%;
-          margin-left: 9%;
-          
-        }
-        
-        .topnav a:hover {
-          background-color: rgb(20, 22, 22);
-          border-radius: 10px;
-          
-        }
-        .games {
-          border-top: solid 1px black;
-        }
+  border-radius: 10px;
+  margin-left: 26%;
+  margin-top: 4%;
+  cursor: pointer;
+}
 
-        .lol {
-          margin-left: 15%;
-          margin-top: 2%;
-          width: 29%;
-          height: 34vh;
-          cursor: pointer;
-          border: solid 2px black ;
-        }
+.logo {
+  color: #fafafa;
+  background-color: rgb(14, 14, 14);
+  text-align: center;
+  margin-top: 2%;
+}
 
-        .cs {
-          margin-left: 13%;
-          margin-top: 3%;
-          width: 30%;
-          height: 34vh;
-          cursor: pointer;
-          border: solid 2px black ;
-        }
+.topnav {
+  overflow: hidden;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bold;
+}
 
-        .vava {
-          margin-left: 15%;
-          width: 29vw;
-          margin-top: 3%;
-          cursor: pointer;
-          border: solid 2px black ;
-        }
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 1%;
+  margin-left: 9%;
+}
 
-        .ff {
-          margin-left: 13%;
-          width: 29vw;
-          margin-top: 2%;
-          cursor: pointer;
-          border: solid 2px black ;
-        }
-        
+.topnav a:hover {
+  background-color: rgb(20, 22, 22);
+  border-radius: 10px;
+}
+.games {
+  border-top: solid 1px black;
+}
+
+.lol {
+  margin-left: 15%;
+  margin-top: 2%;
+  width: 29%;
+  height: 34vh;
+  cursor: pointer;
+  border: solid 2px black;
+  transition-duration: 0.4s;
+}
+.lol:hover {
+  transition-duration: 0.4s;
+  border: solid 2px rgb(47, 185, 219);
+}
+
+.cs {
+  margin-left: 13%;
+  margin-top: 3%;
+  width: 30%;
+  height: 34vh;
+  cursor: pointer;
+  border: solid 2px black;
+  transition-duration: 0.4s;
+}
+.cs:hover {
+  transition-duration: 0.6s;
+  border: solid 2px rgb(255, 255, 255);
+}
+.vava {
+  margin-left: 15%;
+  width: 29vw;
+  margin-top: 3%;
+  cursor: pointer;
+  border: solid 2px black;
+  transition-duration: 0.4s;
+}
+.vava:hover {
+  transition-duration: 0.6s;
+  border: solid 2px rgb(255, 136, 0);
+}
+
+.ff {
+  margin-left: 13%;
+  width: 29vw;
+  margin-top: 2%;
+  cursor: pointer;
+  border: solid 2px black;
+  transition-duration: 0.4s;
+}
+.ff:hover {
+  transition-duration: 0.6s;
+  border: solid 2px rgb(57, 233, 41);
+}
+
+#l:hover {
+  background-color: rgb(205, 138, 50);
+}
+#c:hover {
+  background-color: rgb(205, 138, 50);
+}
+#v:hover {
+  background-color: rgb(205, 138, 50);
+}
+#f:hover {
+  background-color: rgb(205, 138, 50);
+}
+
+#mostrar2 {
+  display: none;
+  position: absolute;
+  list-style: none;
+  background-color: rgb(20, 22, 22);
+  padding-right: 20px;
+  cursor: pointer;
+}
+
+#passar_mouse2:hover #mostrar2 {
+  display: block;
+  border-radius: 10px;
+  margin-left: 45.5%;
+  margin-top: 4%;
+  cursor: pointer;
+  cursor: pointer;
+}
+#mostrar3 {
+  display: none;
+  position: absolute;
+  list-style: none;
+  background-color: rgb(20, 22, 22);
+  padding-right: 20px;
+  cursor: pointer;
+}
+
+#passar_mouse3:hover #mostrar3 {
+  display: block;
+  border-radius: 10px;
+  margin-left: 62.8%;
+  margin-top: 4%;
+}

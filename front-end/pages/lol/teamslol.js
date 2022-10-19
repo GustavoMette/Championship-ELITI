@@ -2,7 +2,9 @@ import Link from 'next/link'
 import styles from '../styles/table.module.css'
 import Footer from "../../components/footer"
 
-export default function teamslol() {
+
+
+export default function freefire() {
   return (
     <div className={styles.container}>
   <div className={styles.seta}>
@@ -40,6 +42,7 @@ export default function teamslol() {
    <p className={styles.calb}>⬜</p>
    </div>
    <Footer />
+
  </div>
   )
     }
