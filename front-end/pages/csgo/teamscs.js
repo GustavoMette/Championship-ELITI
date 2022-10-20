@@ -40,6 +40,7 @@ export default function teamscs() {
    <p className={styles.calb}>⬜</p>
    </div>
    <Footer />
+   <Modal />
  </div>
   )
     }
