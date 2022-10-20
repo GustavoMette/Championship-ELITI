@@ -25,17 +25,15 @@
 }
 
 .round1 {
-    position: relative;
     max-width: 20%;
-    top: 15px;
-    left: 25.5%;
+    margin-top: 5vh;
+    margin-left: 25.5%;
 }
 
 .round2 {
-    position: relative  ;
     max-width: 20%;
-    top: 18px;
-    left: 44.3%;
+    margin-top: 18px;
+    margin-left: 44.3%;
 }
 
 .final {

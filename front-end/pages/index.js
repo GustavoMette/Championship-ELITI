@@ -1,8 +1,7 @@
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 import Navbar from '../components/navbar'
 import Footer from '../components/footer'
-
-import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -10,18 +9,18 @@ export default function Home() {
       <Navbar />
       <div className={styles.games}>
         <div>
-      <Link href='/lol'>
+      <Link href='/lol/timeslol'>
         <img className={styles.lol} src='./lol.png' />
         </Link>
-        <Link href='/csgo'>
+        <Link href='/csgo/timescs'>
         <img className={styles.cs} src='./cs.png' />
         </Link> 
       </div>
       <div>
-      <Link href='/valorant'>
+      <Link href='/valorant/timesvava'>
         <img className={styles.vava} src='./vava.png'/>
       </Link>
-      <Link href='/freefire'>
+      <Link href='/freefire/timesff'>
         <img className={styles.ff} src='./freefire.png'/>
        </Link>
       </div>

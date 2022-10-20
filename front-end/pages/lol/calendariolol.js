@@ -1,7 +1,8 @@
-import styles from '../styles/calendario.module.css'
-import Navbar from "../components/navbar"
+import styles from '../../styles/calendario.module.css'
+import Navbar from "../../components/navbar"
+import Footer from "../../components/footer"
 
-export default function calendarycs() {
+export default function calendariolol() {
   return (
     <div className={styles.allcalendario}>
    <div>
@@ -16,6 +17,8 @@ export default function calendarycs() {
    <p className={styles.wr}>⚫ WKD vs RED</p>
    <p className={styles.ce}>⚫ CAL vs ESP</p>
    <p className={styles.av}>⚫ AMC vs VKS</p>
+
+   <Footer />
    </div>
   )
     }
