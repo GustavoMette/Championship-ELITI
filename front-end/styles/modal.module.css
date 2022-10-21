@@ -1,7 +1,27 @@
-.botaoa{
-display: block;
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .5);
+    position: absolute;
+    top: 0px;
+    left: 0vw;
+    z-index: 2000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.aleatorio2{
-    display: none;
+.modal{
+    background-color: white;
+    width: 60%;
+    max-width: 300px;
+    padding: 40px;
+    position: relative;
+    right: 0px;
+
+}
+
+.fechar{
+    position: absolute;
+    top: 0px;
 }
