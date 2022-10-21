@@ -10,11 +10,11 @@ export default function login () {
         <h1 className={styles.login}>FAÇA SEU LOGIN</h1>
         <div>
           <h1>Email</h1>
-          <input id={styles.forms} placeholder="Digite seu Email"></input>
+          <input id={styles.forms} placeholder=""></input>
         </div>
         <div>
           <h1>Senha</h1>
-          <input id={styles.forms} placeholder="Digite sua Senha"></input>
+          <input id={styles.forms} placeholder=""></input>
         </div>
         <button className={styles.botao}>completo</button>
       </div>
