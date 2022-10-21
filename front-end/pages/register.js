@@ -10,19 +10,19 @@ export default function register () {
         <h1 className={styles.login}>FAÇA SEU REGISTRO</h1>
         <div>
           <h1>Nome Completo</h1>
-          <input id={styles.forms} placeholder="Digite seu Nome"></input>
+          <input id={styles.forms} placeholder=""></input>
         </div>
         <div>
-          <h1>Nome de Usuario</h1>
-          <input id={styles.forms} placeholder="Digite um Nome de Usuario"></input>
+          <h1>Nome do Usuario</h1>
+          <input id={styles.forms} placeholder=""></input>
         </div>
         <div>
           <h1>Email</h1>
-          <input id={styles.forms} placeholder="Digite seu Email"></input>
+          <input id={styles.forms} placeholder=""></input>
         </div>
         <div>
           <h1>Senha</h1>
-          <input id={styles.forms} placeholder="Digite uma Senha Para Você"></input>
+          <input id={styles.forms} placeholder=""></input>
         </div>
         <button className={styles.botao}>completo</button>
       </div>
