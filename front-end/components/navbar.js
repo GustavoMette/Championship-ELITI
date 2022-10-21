@@ -12,9 +12,9 @@ export default function navbar() {
                <a>Home</a>
             </Link>
             <div id={styles.passar_mouse}>
-               <Link href='/calendario'>
+            
                   <a>Calendario</a>
-               </Link>
+     
                <div id={styles.mostrar}>
                   <a>
                   <Link href='/lol/calendariolol'>
@@ -34,9 +34,9 @@ export default function navbar() {
 
             </div>
             <div id={styles.passar_mouse2}>
-               <Link href='/chaves'>
+               
                   <a>Chaves</a>
-               </Link>
+               
                <div id={styles.mostrar2}>
                   <a>
                   <Link href='/lol/chaveslol'>
@@ -56,7 +56,7 @@ export default function navbar() {
 
             </div>
             <div id={styles.passar_mouse3}>
-               <a href="#about">Times</a>
+               <a>Times</a>
                <div id={styles.mostrar3}>
                   <a>
                   <Link href='/lol/timeslol'>
@@ -75,7 +75,9 @@ export default function navbar() {
                </div>
 
             </div>
+            <Link href='/register'>
             <a href="#register">Cadastre-se</a>
+            </Link>
          </div>
       </div>
    )
