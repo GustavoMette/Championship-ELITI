@@ -1,15 +1,15 @@
 .geral {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Trebuchet MS" ;
 }
 .hj{
-   
+    font-family: "Trebuchet MS" ;
     text-align: center;
     font-weight: bold;
     font-size: 8vh;
     margin-top: 1%;
 }
 .ama{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Trebuchet MS" ;
     margin-top: 10%;
     text-align: center;
     font-weight: bold;
@@ -17,7 +17,7 @@
 }
 .wv {
     font-size: 3vh;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Trebuchet MS" ;
     background-color: rgb(112, 111, 111);
     border-bottom:solid 4px rgb(85, 84, 84);
     background-size: cover;
@@ -29,7 +29,7 @@
 }
 .ca{
     font-size: 3vh;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Trebuchet MS" ;
     background-color: rgb(112, 111, 111);
     border-bottom:solid 4px rgb(85, 84, 84);
     background-size: cover;
@@ -41,7 +41,7 @@
 }
 .wr{
     font-size: 3vh;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Trebuchet MS" ;
     background-color: rgb(112, 111, 111);
     border-bottom:solid 4px rgb(85, 84, 84);
     background-size: cover;
@@ -53,7 +53,7 @@
 }
 .ce{
     font-size: 3vh;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Trebuchet MS" ;
     background-color: rgb(112, 111, 111);
     border-bottom:solid 4px rgb(85, 84, 84);
     background-size: cover;
@@ -65,7 +65,7 @@
 }
 .av{
     font-size: 3vh;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Trebuchet MS" ;
     background-color: rgb(112, 111, 111);
     border-bottom:solid 4px rgb(85, 84, 84);
     background-size: cover;
