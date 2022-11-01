@@ -7,14 +7,18 @@ export default function teamregister () {
         <div className={styles.body}>
         <Navbar />
         <div className={styles.itens}>
-          <h1 className={styles.login}>FAÇA SEU LOGIN</h1>
+          <h1 className={styles.login}>CADASTRAR TIME</h1>
           <div>
-            <h1>Email</h1>
+            <h1>Nome do time</h1>
             <input id={styles.forms} placeholder=""></input>
+            <h1>Sigla</h1>
+            <input className={styles.menor}></input>
           </div>
           <div>
-            <h1>Senha</h1>
-            <input id={styles.forms} placeholder=""></input>
+            <button className={styles.selecao}>CSGO</button>
+            <button className={styles.selecao}>VALORANT</button>
+            <button className={styles.selecao}>Free Fire</button>
+            <button className={styles.selecao}>Legue of Legends</button>
           </div>
           <button className={styles.botao}>completo</button>
         </div>
