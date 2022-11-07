@@ -15,6 +15,12 @@
     font-weight: bold;
     font-size: 8vh;
 }
+
+.o {
+    display: flex;
+    
+}
+
 .wv {
     font-size: 3vh;
     font-family: "Trebuchet MS" ;

@@ -13,13 +13,14 @@ export default function calendario() {
     <h1 className={styles.hj}>Hoje</h1>
     <h1 className={styles.ama}>Amanhã</h1>
    
-   <p className={styles.wv}>🔴 WKD vs VKS</p>
-   <p className={styles.ca}>⚫ CAL vs AMC</p>
-   <p className={styles.wr}>⚫ WKD vs RED</p>
-   <p className={styles.ce}>⚫ CAL vs ESP</p>
-   <p className={styles.av}>⚫ AMC vs VKS</p>
+   <p className={styles.o}>🔴 WKD vs VKS</p>
+   <p className={styles.o}>⚫ CAL vs AMC</p>
+   <p className={styles.o}>⚫ WKD vs RED</p>
+   <p className={styles.o}>⚫ CAL vs ESP</p>
+   <p className={styles.o}>⚫ AMC vs VKS</p>
    </div>
    <Footer />
    </div>
   );
     };
+
